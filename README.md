@@ -11,7 +11,7 @@ https://github.com/suryanshu67/NewProject/assets/58147774/1a5e5c50-5e13-4738-b67
 
 
 
-
+TRY It OUT---->algo-trails.vercel.app
 
 ## Installation
 1. Clone repository to your local machine
