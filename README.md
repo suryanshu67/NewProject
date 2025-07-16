@@ -1,5 +1,7 @@
-<h1>Map Pathfinding Visualizer</h1>
+<h1> ALgo-Trails-->Map Pathfinding Visualizer</h1>
 <p>Pathfinding algorithms visualized on a real map. Anywhere in the world.</p>
+
+
 
 
 
